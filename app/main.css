@@ -14,6 +14,9 @@
 
     --leading-paragraph: 1.26666666667;
     --leading-heading: 1.27272727273;
+
+    --rounded-sm: 0.625rem;
+    --rounded: 1.25rem;
 }
 *,
 *::before,
@@ -60,15 +63,15 @@ main {
 .card {
     margin: 0 auto;
     width: min(20rem, 100vw - 3.5rem);
-    border-radius: 1.25rem;
+    border-radius: var(--rounded);
     padding: 1rem 1rem 2.5rem 1rem;
     text-align: center;
     background-color: var(--clr-white);
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.05);
 }
 
-.card__iamge {
-    border-radius: 0.625rem;
+.card__image {
+    border-radius: var(--rounded-sm);
     margin-bottom: 1.5rem;
     width: 18rem;
     height: 18rem;
