@@ -3,16 +3,16 @@
     font-family: "Outfit";
     font-style: normal;
     font-weight: 400;
-    src: url("./assets/fontsoutfit-v14-latin-regular.woff2") format("woff2"),
-        url("./assets/fontsoutfit-v14-latin-regular.ttf") format("truetype");
+    src: url("./assets/fonts/outfit-v14-latin-regular.woff2") format("woff2"),
+        url("./assets/fonts/outfit-v14-latin-regular.ttf") format("truetype");
 }
 @font-face {
     font-display: swap;
     font-family: "Outfit";
     font-style: normal;
     font-weight: 700;
-    src: url("./assets/fontsoutfit-v14-latin-700.woff2") format("woff2"),
-        url("./assets/fontsoutfit-v14-latin-700.ttf") format("truetype");
+    src: url("./assets/fonts/outfit-v14-latin-700.woff2") format("woff2"),
+        url("./assets/fonts/outfit-v14-latin-700.ttf") format("truetype");
 }
 :root {
     --color-slate-300: hsl(212, 45%, 89%);
