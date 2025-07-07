@@ -85,7 +85,6 @@ main {
     line-height: 1.2;
     margin-bottom: 1rem;
     color: var(--color-slate-900);
-    padding: 0 1rem;
 }
 
 .card__description {
