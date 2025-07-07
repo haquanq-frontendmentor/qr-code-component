@@ -76,8 +76,8 @@ main {
 }
 
 .card__image {
-    border-radius: 1.25rem;
-    margin-bottom: 1rem;
+    border-radius: 0.625rem;
+    margin-bottom: 1.5rem;
 }
 
 .card__headline {
