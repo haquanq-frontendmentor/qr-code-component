@@ -3,16 +3,11 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Frontend Mentor - Interactive rating component solution
-
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Project overview](#rocket-project-overview)
 - [Development workflow](#boat-development-workflow)
-- [Working in this repository](#astronaut-working-in-fm-results-summary-component-repository)
+- [Working in this repository](#astronaut-working-in-this-repository)
 - [License](#page_with_curl-license)
 
 ## :rocket: Project overview
@@ -21,10 +16,11 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Implemented features
+
 Accessibility
 
 - [x] Responsive accross different devices
-- [x] Interactive elements have clear indicator when focused
 
 ## Preview
 
